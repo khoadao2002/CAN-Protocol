@@ -1,0 +1,11 @@
+CAN_SPI.c:17:6:CANSPI_Sleep	1
+CAN_SPI.c:29:5:CANSPI_Initialize	4
+CAN_SPI.c:133:9:CANSPI_Transmit	4
+CAN_SPI.c:182:9:CANSPI_Receive	5
+CAN_SPI.c:233:9:CANSPI_messagesInBuffer	3
+CAN_SPI.c:253:9:CANSPI_isBussOff	2
+CAN_SPI.c:268:9:CANSPI_isRxErrorPassive	2
+CAN_SPI.c:283:9:CANSPI_isTxErrorPassive	2
+CAN_SPI.c:298:17:convertReg2ExtendedCANid	1
+CAN_SPI.c:320:17:convertReg2StandardCANid	1
+CAN_SPI.c:333:13:convertCANid2Reg	2
